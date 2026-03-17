@@ -24,7 +24,7 @@ That curiosity turned into a passion: combining logic and creativity to build th
 
 🛠️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,bash,vercel,webpack,vscode,cpp,vite,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,vercel,webpack,vscode,cpp,vite,figma)](https://skillicons.dev)
 
 🚀 About Me
 

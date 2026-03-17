@@ -1,16 +1,57 @@
-## Hi there 👋
+👋 Hey, I'm Johanna
 
-<!--
-**jothegirlie/jothegirlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Business Informatics student & aspiring Frontend Developer
 
-Here are some ideas to get you started:
+Ever since I was younger, I’ve been fascinated by beautifully designed websites. I’d catch myself scrolling endlessly not for the content, but for the experience itself. ✨
+That curiosity turned into a passion: combining logic and creativity to build things that are not only functional, but visually engaging.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Coding isn’t just something I study it’s part of my daily routine. I’m constantly learning, building, and improving my skills.
+
+When I’m not coding, you’ll find me:
+
+🏋️‍♀️ At the gym
+
+🎧 Listening to music
+
+🐾 Spending time with my pets👋 Hey, I'm Johanna
+
+🎓 Business Informatics student & aspiring Frontend Developer
+
+Ever since I was younger, I’ve been fascinated by beautifully designed websites. I’d catch myself scrolling endlessly — not for the content, but for the experience itself. ✨
+That curiosity turned into a passion: combining logic and creativity to build things that are not only functional, but visually engaging.
+
+💻 Coding isn’t just something I study — it’s part of my daily routine. I’m constantly learning, building, and improving my skills in frontend development.
+
+🛠️ Languages & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,bash,vercel,webpack,vscode,cpp,vite,figma)](https://skillicons.dev)
+
+🚀 About Me
+
+🌱 Currently growing my skills in frontend technologies
+
+🎯 Focused on creating clean, responsive & user-friendly interfaces
+
+💡 Interested in the intersection of tech & business
+
+⚡ Outside of Code
+
+When I’m not coding, you’ll find me:
+
+🏋️‍♀️ At the gym
+
+🎧 Listening to music
+
+🐾 Spending time with my pets
+
+📌 Goals
+
+Become a skilled Frontend Developer
+
+Build meaningful and aesthetic web experiences
+
+Keep learning something new every day
+
+🔗 Let’s Connect
+💻:www.linkedin.com/in/johanna-lang-81aa0a30b
+📨:johannalang.14j@gmail.com

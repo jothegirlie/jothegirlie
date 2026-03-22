@@ -29,4 +29,5 @@ Keep learning something new every day
 
 🔗 Let’s Connect
 💻:www.linkedin.com/in/johanna-lang-81aa0a30b
+
 📨:johannalang.14j@gmail.com

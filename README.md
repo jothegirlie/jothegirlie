@@ -19,14 +19,6 @@ When I’m not coding, you’ll find me:
 
 🐾 Spending time with my pets
 
-📌 Goals
-
-Become a skilled Frontend Developer
-
-Build meaningful and aesthetic web experiences
-
-Keep learning something new every day
-
 🔗 Let’s Connect
 
 💻:www.linkedin.com/in/johanna-lang-81aa0a30b

@@ -16,9 +16,3 @@ When I’m not coding, you’ll find me:
 🎧 Listening to music
 
 🐾 Spending time with my pets
-
-🔗 Let’s Connect
-
-💻:www.linkedin.com/in/johanna-lang-81aa0a30b
-
-📨:johannalang.14j@gmail.com

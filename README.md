@@ -1,29 +1,37 @@
-
-Readme · MD
-<h1 align="center">Hi, I'm Johanna 👋</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/header.gif" width="100%" alt="header animation"/>
+</p>
+<h2 align="center">✨ Hi, my name is Johanna ✨</h2>
  
-<img align="right" width="200" src="https://user-images.githubusercontent.com/placeholder/coding-illustration.gif" alt="coding illustration" />
-## MONICA POWELL
-### Software engineer, content creator & community organizer
+<p align="center">
+Currently an undergraduate student pursuing my degree in Informatică Economică at Universitatea Babeș-Bolyai (UBB Cluj-Napoca), Faculty of Economics and Business Administration. I'm into building frontend projects, learning new web technologies, and working toward becoming a hireable frontend developer. Based in Zalău, Romania.
+</p>
+<h3 align="center">✨ Languages and Tools ✨</h3>
  
-I'm an undergraduate student at UBB Cluj-Napoca (Faculty of Economics and Business Administration), specializing in Informatică Economică. I'm building my skills as a frontend developer and working on side projects while finishing my degree.
+<p align="center">
+  <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+<h3 align="center">✨ Contact Me ✨</h3>
  
-I enjoy working with technologies like React, JavaScript, and modern web tooling. I'm passionate about making tech more accessible and sharing what I learn along the way.
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourhandle">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+<h3 align="center">✨ Johanna's GitHub Stats ✨</h3>
  
-### 🌐 Find me around the web:
- 
-- 🐦 Learning in public on [Twitter/X](https://twitter.com/yourhandle)
-- 💻 Tinkering with interactions on [CodePen](https://codepen.io/yourhandle)
-- 💼 Sharing updates on [LinkedIn](https://linkedin.com/in/yourhandle)
-- 📍 Zalău, Romania
-<br>
-### 🛠 Tech Stack
- 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
- 
-### 📊 GitHub Stats
- 
-![Johanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+</p>
